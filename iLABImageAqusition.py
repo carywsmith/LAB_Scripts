@@ -1,7 +1,7 @@
 ###
 # iLabImageAcquisition script
 #
-# A sequencer script to automatically take images in the lab with a shutter.
+# A sequencer script to automatically take images in the lab with an electronic shutter.
 #
 # Author: Cary Smith
 #
