@@ -1,2 +1,2 @@
 # LAB_Scripts
-A home for wayward lab scripts, you find one please send it this way. 
+A home for wayward lab scripts, if you find one please send it this way. 
