@@ -1,5 +1,5 @@
 #
-# For writing images to CSV File
+# For writing image Standard Deveation to CSV File
 # By Cary Smith
 # Feb 3, 2019
 #
